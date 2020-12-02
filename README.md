@@ -1,5 +1,5 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#visitors badge
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there 
+
 <br>
 Hi, I'm Anmol Bansal, a Web Developer🚀 from India, currently, I'm a B.Tech CSE Student at VIT Vellore and a Co-Founder of [@Startup Name] (startup link). I have a keen interest in design and data science too (wierd combination, right?). Beside's tech, I enjoy cricket and music.
 
@@ -38,6 +38,7 @@ Markdown     1 min           ▒░░░░░░░░░░░░░░░░
 
 ## 🐱My Github Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=anmolbansal7&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolbansal7&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Show some ❤️ by starring some of the repositories!
