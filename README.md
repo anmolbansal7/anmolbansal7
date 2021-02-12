@@ -27,7 +27,7 @@ Hi, I'm Anmol Bansal, a Web Developer🚀 from India, currently, I'm a B.Tech CS
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ## 🐱My Github Stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=anmolbansal7&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=anmolbansal7&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22])
 <br>
 
 ### Show some ❤️ by starring some of the repositories!
