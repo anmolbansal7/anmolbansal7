@@ -57,7 +57,8 @@ A Web Developer🚀 from India, currently, I'm a B.Tech CSE Student at VIT Vello
   <a href="mailto:abanmolbansal5@gmail.com" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Anmol | Gmail" width="40px" >
   </a>
-  
 <br>
+
+
 ### <p align="center">Show some ❤️ by starring some of the repositories!</p>
 <br><br><br>
