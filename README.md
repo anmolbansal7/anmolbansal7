@@ -45,20 +45,19 @@ A Web Developer🚀 from India, currently, I'm a B.Tech CSE Student at VIT Vello
   <a href="https://www.linkedin.com/in/anmolbansal7/" target="blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Anmol | LinkedIn" width="40px" >
   </a>
+  
   <a href="https://www.instagram.com/anmollbansall" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Anmol | Instagram" width="40px" >
   </a>
- <a href="https://www.twitter.com/anmollbansall" target="_blank">
+ 
+  <a href="https://www.twitter.com/anmollbansall" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" target="_blank"  alt="Anmol | Twitter" width="40px" >
   </a>
-    <a href="https://github.com/vidushig08" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Anmol | Gmail" width="40px" >
-  </a>
+ 
   <a href="mailto:abanmolbansal5@gmail.com" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Anmol | Gmail" width="40px" >
   </a>
- <br/>
-
-
+  
+<br>
 ### <p align="center">Show some ❤️ by starring some of the repositories!</p>
 <br><br><br>
