@@ -42,7 +42,7 @@ A Web Developer🚀 from India, currently, I'm a B.Tech CSE Student at VIT Vello
 
 
 ## Get in Touch 📫
-  <a href="https://www.linkedin.com/in/anmolbansal7/" target="_blank">
+  <a href="https://www.linkedin.com/in/anmolbansal7/" target="blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Anmol | LinkedIn" width="40px" >
   </a>
   <a href="https://www.instagram.com/anmollbansall" target="_blank">
