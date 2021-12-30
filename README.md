@@ -29,11 +29,26 @@
     Languages and Tools 🛠️
 </h2>
 <div align="center">
-    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/master/assets/nodejs.png" height=40 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/reactjs.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/javascript.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/css.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/html.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/java.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/c.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/python.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/nodejs.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/sql.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/mongodb.png" height=55 hspace=10>
 </div>
-
+</br>
 <div align="center">
-    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/master/assets/nodejs.png" height=40 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/firebase.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/bootstrap.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/sass.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/nextjs.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/git.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/github.png" height=55 hspace=10>
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/figma.png" height=55 hspace=10>
 </div>
 
 
