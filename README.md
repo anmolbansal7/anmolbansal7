@@ -22,7 +22,7 @@
 - ⚡ Talk to me about **Business Ideas💡, Development👨‍💻 and Cricket🏏**
 - 🥅 **2022 Goals:** Learn and Explore
 - 😄 Pronouns: **He/Him**
-- 📝 **[My Resume](https://evoevents.club/)**
+<!--- 📝 **[My Resume](https://evoevents.club/)**-->
 
  
 <h2 align="center">
