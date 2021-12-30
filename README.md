@@ -57,7 +57,7 @@
 </h2>
 <div align="center">
  
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=anmolbansal7&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22])
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=anmolbansal7&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22]&count_private=true)
 
 </div>
 
