@@ -16,7 +16,7 @@
     Some more stuff 💻
 </h2>
 
-- 👨🏽‍💻 I’m currently working on <strong>something exciting</strong>  <em> <a href="https://evoevents.club/"> check it out </a> </em>
+<!---- 👨🏽‍💻 I’m currently working on <strong>something exciting</strong>  <em> <a href="https://evoevents.club/"> check it out </a> </em> -->
 - 🌱 I’m currently learning **Web Development and Competitive Programming** 
 - 👯 I’m looking to **collaborate** on Web Development Projects
 - ⚡ Talk to me about **Business Ideas💡, Development👨‍💻 and Cricket🏏**
