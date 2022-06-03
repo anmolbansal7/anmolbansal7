@@ -63,8 +63,7 @@
 
 <div align="center">
  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolbansal7&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22])
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolbansal7&langs_count=5&layout=compact&hide_border=true&show_icons=true&title_color=fca311&icon_color=38b6ff&text_color=ffffff&bg_color=000000&hide=[%22stars%22])
 </div>
 
 
