@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I'm Anmol </h1>
+    <h1> Hey there, I'm Anmol </h1>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 </br>
 <p align="center">
     <code> 
-        I am <strong>Anmol Bansal</strong>, a 3rd year undergraduate at <em>VIT, Vellore</em>, majoring in <strong>Computer Science</strong>. I am a frontend <strong>Web</strong> developer.
+        I am <strong>Anmol Bansal</strong>, a Final Year Student at <em>VIT, Vellore</em>, majoring in <strong>Computer Science</strong>. I am a Frontend <strong>Web</strong> Developer.
     </code>
 </p>
 
