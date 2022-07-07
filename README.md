@@ -17,7 +17,7 @@
 </h2>
 
 <!---- 👨🏽‍💻 I’m currently working on <strong>something exciting</strong>  <em> <a href="https://evoevents.club/"> check it out </a> </em> -->
-- 🌱 I’m currently learning **Web Development and Competitive Programming** 
+- 🌱 I’m currently learning **Full Stack Development and DSA** 
 - 👯 I’m looking to **collaborate** on Web Development Projects
 - ⚡ Talk to me about **Business Ideas💡, Development👨‍💻 and Cricket🏏**
 - 🥅 **2022 Goals:** Learn and Explore
@@ -42,6 +42,7 @@
 </div>
 </br>
 <div align="center">
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/django.png" height=55 hspace=10>
     <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/firebase.png" height=55 hspace=10>
     <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/bootstrap.png" height=55 hspace=10>
     <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/sass.png" height=55 hspace=10>
