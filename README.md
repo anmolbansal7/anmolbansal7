@@ -42,6 +42,7 @@
 </div>
 </br>
 <div align="center">
+    <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/typescript.png" height=55 hspace=10>
     <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/django.png" height=55 hspace=10>
     <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/firebase.png" height=55 hspace=10>
     <img src="https://github.com/anmolbansal7/anmolbansal7/blob/main/assets/bootstrap.png" height=55 hspace=10>
