@@ -8,7 +8,7 @@
 </br>
 <p align="center">
     <code> 
-        I am <strong>Anmol Bansal</strong>, a Final Year Student at <em>VIT, Vellore</em>, majoring in <strong>Computer Science</strong>. I am a Full Stack<strong>Web</strong> Developer.
+        I am <strong>Anmol Bansal</strong>, a Final Year Student at <em>VIT, Vellore</em>, majoring in <strong>Computer Science</strong>. I am a <strong>Full Stack Web Developer.</strong>
     </code>
 </p>
 
