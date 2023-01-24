@@ -7,9 +7,7 @@
 </div>
 </br>
 <p align="center">
-    <code> 
-        I am <strong>Anmol Bansal</strong>, a Final Year Student at <em>VIT, Vellore</em>, majoring in <strong>Computer Science</strong>. I am a <strong>Full Stack Web Developer.</strong>
-    </code>
+    <code>I am <strong>Anmol Bansal</strong>, a Final Year Student at <em>VIT, Vellore</em>, majoring in <strong>Computer Science</strong>. I am a <strong>Full Stack Web Developer.</strong></code>
 </p>
 
 <h2 align="center">
@@ -20,7 +18,7 @@
 - 🌱 I’m currently learning **Full Stack Development and DSA** 
 - 👯 I’m looking to **collaborate** on Web Development Projects
 - ⚡ Talk to me about **Business Ideas💡, Development👨‍💻 and Cricket🏏**
-- 🥅 **2022 Goals:** Learn and Explore
+- 🥅 **2023 Goals:** Learn and Explore
 - 😄 Pronouns: **He/Him**
 <!--- 📝 **[My Resume](https://evoevents.club/)**-->
 
