@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=anmolbansal7&color=blueviolet" alt="Anmol | Profile Views" />
+    <a href = "https://github.com/anmolb-cogo" target="_blank">My Company Account: <b>@anmolb-cogo</b></a>
 </div>
 </br>
 <p align="center">
